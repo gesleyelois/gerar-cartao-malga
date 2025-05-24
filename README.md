@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/npm/l/gerar-cartao-malga)](LICENSE)
 ![node >=18](https://img.shields.io/badge/node-%3E%3D18-blue)
 
-CLI para gerar cartões de teste no sandbox da [Malga](https://docs.malga.io/sdks/api-sdks/docs/sandbox/generate-card#gerar-cartao), com seleção de bandeira, status e cópia automática para a área de transferência.
+CLI para gerar cartões de teste no sandbox da <a href="https://docs.malga.io/sdks/api-sdks/docs/sandbox/generate-card#gerar-cartao" target="_blank">Malga</a>, com seleção de bandeira, status e cópia automática para a área de transferência.
 
 ---
 

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CLI para gerar cartões de teste no sandbox da Malga.",
   "bin": {
-    "gerar-cartao-malga": "./bin.js"
+    "gerar-cartao": "./bin.js"
   },
   "type": "module",
   "scripts": {
