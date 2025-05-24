@@ -1,0 +1,22 @@
+{
+  "name": "gerar-cartao-malga",
+  "version": "1.0.0",
+  "description": "CLI para gerar cartões de teste no sandbox da Malga.",
+  "bin": {
+    "gerar-cartao-malga": "./bin.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node bin.js"
+  },
+  "keywords": ["malga", "cartão", "sandbox", "pagamento", "cli"],
+  "author": "Gesley Elois",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "dotenv": "^16.5.0",
+    "inquirer": "^12.6.2",
+    "malga": "^0.0.1"
+  }
+}
